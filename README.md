@@ -90,3 +90,5 @@
 > 💡 **ملاحظة**: لا حاجة لتثبيت PHP أو Composer أو Node.js محلياً — Laravel Sail يوفر كل شيء داخل Docker.
 
 ---
+## زيارة خدمة MVP 
+- رابط المشروع https://exfoliate-reverse-scribing.ngrok-free.dev/
